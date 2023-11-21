@@ -1,0 +1,24 @@
+.bg-container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #ffffff;
+  width: 80%;
+  height: fit-content;
+  margin: 40px;
+  border-radius: 15px;
+}
+.title {
+  text-align: center;
+  color: #ff8542;
+  font-family: 'Roboto';
+}
+.list-container {
+  padding: 20px;
+}

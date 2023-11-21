@@ -1,0 +1,22 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-item {
+  font-family: 'Roboto';
+  text-align: left;
+  color: #000000;
+}
+.btn {
+  font-size: 12px;
+  padding: 10px;
+  background-color: transparent;
+  border: 1.5px solid #ff0b37;
+  color: #ff0b37;
+  border-radius: 7px;
+  cursor: pointer;
+  outline: none;
+}
